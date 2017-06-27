@@ -9,7 +9,8 @@ Intention:
 
     I know lots of people with learning disabilities who feel unsupported by the society and education system.
     For example, people with learning disabilities such as dyslexia (difficulty in reading)
-    and dysgraphia (inability to write coherently) is really hard to learn and to survive in the standardized education system.
+    and dysgraphia (inability to write coherently) is really hard to learn and to survive
+    in the standardized education system.
     I believe text-to-speech (TTS) technology can help them.
 
 Problem:
