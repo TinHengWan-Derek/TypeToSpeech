@@ -28,6 +28,10 @@ Solution:
     that save the current word. When the user press space (go to the next word),
     it will pronoun the previous word.
 
+Prerequisite:
+
+    'say' command in mac ox - SAY(1) Speech Synthesis Manager 
+
 Start the program:
 ```
 python TypeToSpeech.py
